@@ -1,4 +1,4 @@
-# Visionary-Jungle-Vol1 
+# Ronin Gang Studio - Visionary-Jungle-Vol1 
 Selva Kené DMT — Jungla Bioluminiscente 360° by Ronin Gang Studio & Damián Alejandro Linares 
 
 Selva Kené DMT es una experiencia interactiva audiovisual en WebGL y Three.js que sumerge al usuario en una jungla amazónica nocturna de estética visionaria, donde la naturaleza se entrelaza con una fina película bioluminiscente de patrones geométricos Kené Shipibo-Konibo y simetrías inspiradas en estados psicodélicos profundos.
